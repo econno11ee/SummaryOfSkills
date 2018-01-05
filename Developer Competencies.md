@@ -1,6 +1,4 @@
-# Techtonic Group
 
-## *Standards of Apprenticeship for Competency Based Software Developer Apprenticeship*
 
 ### 1. FRONT END DEVELOPMENT HTML & CSS
 
